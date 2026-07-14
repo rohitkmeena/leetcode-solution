@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/rohitkmeena/leetcode-solution/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/rohitkmeena/leetcode-solution/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/rohitkmeena/leetcode-solution/tree/master/0626-exchange-seats) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rohitkmeena/leetcode-solution/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rohitkmeena/leetcode-solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
