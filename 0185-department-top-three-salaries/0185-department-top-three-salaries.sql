@@ -13,7 +13,7 @@ FROM (
         ORDER BY e.salary DESC
     ) AS salary_rank
     FROM Employee e
-    JOIN Department d
+    left JOIN Department d
     ON e.departmentId = d.id
     ) ranked
     WHERE salary_rank <= 3;
