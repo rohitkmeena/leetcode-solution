@@ -5,3 +5,10 @@ class Solution:
           return True
         else:
           return False
+
+        # x = str(x)
+        # first, *all, last = x
+        # if first == last:
+        #   return True
+        # else:
+        #   return False
