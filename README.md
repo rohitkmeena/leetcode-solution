@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/rohitkmeena/leetcode-solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/rohitkmeena/leetcode-solution/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/rohitkmeena/leetcode-solution/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/rohitkmeena/leetcode-solution/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/rohitkmeena/leetcode-solution/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/rohitkmeena/leetcode-solution/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/rohitkmeena/leetcode-solution/tree/master/0626-exchange-seats) |
