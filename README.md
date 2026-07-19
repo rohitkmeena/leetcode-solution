@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/rohitkmeena/leetcode-solution/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/rohitkmeena/leetcode-solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/rohitkmeena/leetcode-solution/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0610-triangle-judgement](https://github.com/rohitkmeena/leetcode-solution/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/rohitkmeena/leetcode-solution/tree/master/0626-exchange-seats) |
 ## Array
 |  |
