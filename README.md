@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rohitkmeena/leetcode-solution/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/rohitkmeena/leetcode-solution/tree/master/0035-search-insert-position) |
+| [1470-shuffle-the-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/1929-concatenation-of-array) |
 ## Hash Table
