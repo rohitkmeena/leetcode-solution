@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohitkmeena/leetcode-solution/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohitkmeena/leetcode-solution/tree/master/0035-search-insert-position) |
 | [1470-shuffle-the-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rohitkmeena/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
