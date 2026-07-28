@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rohitkmeena/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rohitkmeena/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rohitkmeena/leetcode-solution/tree/master/0100-same-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rohitkmeena/leetcode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
