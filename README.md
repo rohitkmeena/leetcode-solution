@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rohitkmeena/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rohitkmeena/leetcode-solution/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/rohitkmeena/leetcode-solution/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rohitkmeena/leetcode-solution/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rohitkmeena/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rohitkmeena/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rohitkmeena/leetcode-solution/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rohitkmeena/leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rohitkmeena/leetcode-solution/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
