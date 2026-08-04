@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rohitkmeena/leetcode-solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rohitkmeena/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/rohitkmeena/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rohitkmeena/leetcode-solution/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohitkmeena/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rohitkmeena/leetcode-solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rohitkmeena/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rohitkmeena/leetcode-solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rohitkmeena/leetcode-solution/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rohitkmeena/leetcode-solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rohitkmeena/leetcode-solution/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
